@@ -1,12 +1,12 @@
 # Bikes For Refugees
 
-Fun fact, [Bikes For Refugees](https://www.bikesforrefugees.scot/) is a real project, and CYF grads have worked on apps for it for their Final Projects.
+[Bikes For Refugees](https://www.bikesforrefugees.scot/) is a real project, and CodeYourFuture grads from London have worked on apps for it for their Final Projects.
 
 ## Set up
 
-1. **Clone** [this repository](https://github.com/CodeYourFuture/bikes-for-refugees/) onto your machine. You can use this [video guide](https://www.youtube.com/watch?v=ILJ4dfOL7zs) to refresh your memory if you're stuck.
+1. **Clone** [this repository](https://github.com/HackYourFutureBelgium/bikes-for-refugees) onto your machine. You can use this [video guide](https://www.youtube.com/watch?v=ILJ4dfOL7zs) to refresh your memory if you're stuck.
 1. Open up the repository you just cloned using VSCode.
-1. Make a new branch for your work in the form `cohort/name`. For example: `NW7/GermanBencci`
+1. Make a new branch for your work in the form `cohort/name`. For example: `ITP-2025-1/FatmaSumer`
 
 You're now ready to code!
 
@@ -14,7 +14,7 @@ You're now ready to code!
 
 The aim of the exercise is for your webpage to look like the following screenshot:
 
-![Bike For Refugees: final design](https://github.com/CodeYourFuture/bikes-for-refugees/blob/main/bikes-for-refugees_final-design.png)
+![Bike For Refugees: final design](/bikes-for-refugees_final-design.png)
 
 Open the `index.html` file in your browser, and compare it to the image of the final result. What's different?
 
@@ -56,4 +56,4 @@ Add a hover effect using CSS, so that:
 
 Once you've finished, **open a pull request**.
 
-As always, you can use this guide if you need to refresh your memory 👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request/
+You can use this guide from CYF for your PR. 👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request/
